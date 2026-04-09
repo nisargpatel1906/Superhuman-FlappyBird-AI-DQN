@@ -1,18 +1,12 @@
-<h1 align="center">
-  Superhuman FlappyBird AI (DQN) 🐦
-</h1>
+# Superhuman FlappyBird AI (DQN) 🐦
 
-<p align="center">
-  <a href="https://github.com/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ/stargazers"><img src="https://img.shields.io/github/stars/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ?style=flat-square&color=blue" alt="Stars"></a>
-  <a href="https://github.com/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ/network/members"><img src="https://img.shields.io/github/forks/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ?style=flat-square&color=blue" alt="Forks"></a>
-  <a href="https://github.com/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ/issues"><img src="https://img.shields.io/github/issues/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ?style=flat-square&color=blue" alt="Issues"></a>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
-</p>
+[![Stars](https://img.shields.io/github/stars/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ?style=flat-square&color=blue)](https://github.com/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ/stargazers)
+[![Forks](https://img.shields.io/github/forks/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ?style=flat-square&color=blue)](https://github.com/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ/network/members)
+[![Issues](https://img.shields.io/github/issues/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ?style=flat-square&color=blue)](https://github.com/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ/issues)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=flat-square&logo=python&logoColor=white)
 
-<p align="center">
-  An incredibly optimized <b>Deep Q-Network (DQN)</b> agent that learns to play <b>FlappyBird</b> at a superhuman level using Reinforcement Learning.
-</p>
+An incredibly optimized **Deep Q-Network (DQN)** agent that learns to play **FlappyBird** at a superhuman level using Reinforcement Learning.
 
 ---
 
@@ -106,6 +100,5 @@ Configured directly in `parameters.yaml`.
 | **Device Execution** | CUDA | `torch.backends.cudnn.benchmark = True` enabled for speed |
 
 ---
-<p align="center">
-  <i>Developed with ❤️ by <a href="https://github.com/nisargpatel1906">Nisarg Patel</a></i>
-</p>
+
+*Developed with ❤️ by [Nisarg Patel](https://github.com/nisargpatel1906)*
