@@ -4,7 +4,7 @@
 [![Forks](https://img.shields.io/github/forks/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ?style=flat-square&color=blue)](https://github.com/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ/network/members)
 [![Issues](https://img.shields.io/github/issues/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ?style=flat-square&color=blue)](https://github.com/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ/issues)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10_|_3.12-blue.svg?style=flat-square&logo=python&logoColor=white)
 
 An incredibly optimized **Deep Q-Network (DQN)** agent that learns to play **FlappyBird** at a superhuman level using Reinforcement Learning.
 
@@ -38,6 +38,8 @@ To break past standard Python CPU/GPU execution bottlenecks, this codebase was h
 ```
 
 ## 🛠️ Quick Setup
+
+> **⚠️ IMPORTANT:** This project strictly requires **Python 3.10** or **Python 3.12**. Other versions may cause compatibility issues with the Gymnasium environments or PyTorch.
 
 1. **Clone the repository:**
    ```bash
