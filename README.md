@@ -8,6 +8,11 @@
 
 An incredibly optimized **Deep Q-Network (DQN)** agent that learns to play **FlappyBird** at a superhuman level using Reinforcement Learning.
 
+<div align="center">
+  <img src="screenshot.png" alt="Flappy Bird 1000 Score" width="300" />
+  <p><i>The agent hitting a flawless score of 1000, calculating trajectories using LiDAR-style continuous raycasting.</i></p>
+</div>
+
 ---
 
 ## ⚡ High-Performance Architecture
